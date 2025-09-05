@@ -22,8 +22,7 @@ A simple **voice-controlled virtual assistant** built in Python. Jarvis can perf
 - Windows OS (for SAPI5 voice engine; can be adapted for Linux/Mac with `espeak`)  
 
 ### Required Python Libraries
-Install the dependencies using `pip;
-``bash
+Install the dependencies using `pip`:
+
+```bash
 pip install pyttsx3 speechrecognition wikipedia
-
-
